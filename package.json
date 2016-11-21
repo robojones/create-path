@@ -1,0 +1,26 @@
+{
+  "name": "create-path",
+  "version": "1.0.0",
+  "description": "create whole paths asynchronous",
+  "main": "createPath.js",
+  "scripts": {
+    "test": "exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/robojones/create-path.git"
+  },
+  "keywords": [
+    "create",
+    "folder",
+    "path",
+    "async",
+    "asynchronous"
+  ],
+  "author": "robojones",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/robojones/create-path/issues"
+  },
+  "homepage": "https://github.com/robojones/create-path#readme"
+}
