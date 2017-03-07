@@ -1,6 +1,6 @@
 {
   "name": "create-path",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "create whole paths asynchronous",
   "main": "createPath.js",
   "scripts": {
@@ -22,5 +22,8 @@
   "bugs": {
     "url": "https://github.com/robojones/create-path/issues"
   },
-  "homepage": "https://github.com/robojones/create-path#readme"
+  "homepage": "https://github.com/robojones/create-path#readme",
+  "dependencies": {
+    "mkdirp": "^0.5.1"
+  }
 }
