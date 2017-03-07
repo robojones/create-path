@@ -1,6 +1,6 @@
 {
   "name": "create-path",
-  "version": "1.0.1",
+  "version": "2.0.0",
   "description": "create whole paths asynchronous",
   "main": "createPath.js",
   "scripts": {
