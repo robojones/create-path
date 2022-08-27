@@ -1,7 +1,8 @@
 {
   "name": "create-path",
-  "version": "2.0.0",
+  "version": "2.0.1",
   "description": "promise version of mkdirp",
+  "bin": { "create-path": "createPathCli.js" },
   "main": "createPath.js",
   "scripts": {
     "test": "exit 0"
@@ -24,6 +25,6 @@
   },
   "homepage": "https://github.com/robojones/create-path#readme",
   "dependencies": {
-    "mkdirp": "^0.5.1"
+    "mkdirp": "npm:mkdirp@latest"
   }
 }
